@@ -1,7 +1,7 @@
 {
   "name": "hexo-tag-pornhub",
   "version": "0.1.1",
-  "description": "Embed pornhub player in Hexo site.",
+  "description": "Insert pornhub videos in Hexo site by using tags.",
   "main": "index.js",
   "scripts": {
     "deploy": "npm version patch && npm publish",
