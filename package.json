@@ -1,6 +1,6 @@
 {
   "name": "hexo-tag-pornhub",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Insert pornhub videos in Hexo site by using tags.",
   "main": "index.js",
   "scripts": {
