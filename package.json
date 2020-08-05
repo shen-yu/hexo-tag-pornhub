@@ -1,0 +1,23 @@
+{
+  "name": "hexo-tag-pornhub",
+  "version": "0.0.1",
+  "description": "Embed pornhub player in Hexo site.",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "npm version patch && npm publish",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hexo"
+  ],
+  "author": "Shen-Yu",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shen-Yu/hexo-tag-pornhub.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Shen-Yu/hexo-tag-pornhub/issues"
+  },
+  "homepage": "https://github.com/Shen-Yu/hexo-tag-pornhub"
+}
