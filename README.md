@@ -22,13 +22,3 @@ $ npm install hexo-tag-pornhub --save
 ```
 {% pornhub ph5f0fbf1d548ea 800 520 %}
 ```
-
-You can configure the size of the video player in your main _config.yml:
-
-Example configuration:
-
-```
-pornhub:
-  width: 560 (default)
-  height: 315 (default)
-```
